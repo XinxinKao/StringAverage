@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAverage", "StringAverage\StringAverage.csproj", "{D8219497-A3F6-47D9-A432-46C3A82D4918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAverageTest", "StringAverageTest\StringAverageTest.csproj", "{92CB3714-2902-4966-8573-7815B90E5B96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{D8219497-A3F6-47D9-A432-46C3A82D4918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8219497-A3F6-47D9-A432-46C3A82D4918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8219497-A3F6-47D9-A432-46C3A82D4918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CB3714-2902-4966-8573-7815B90E5B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CB3714-2902-4966-8573-7815B90E5B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CB3714-2902-4966-8573-7815B90E5B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CB3714-2902-4966-8573-7815B90E5B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B792CC6F-3292-4549-A225-1639B18BD377}
 	EndGlobalSection
 EndGlobal

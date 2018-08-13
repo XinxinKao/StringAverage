@@ -1,0 +1,17 @@
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\StringAverageTest.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\StringAverageTest.pdb
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\StringAverage.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\StringAverage.pdb
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\obj\Debug\StringAverageTest.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\obj\Debug\StringAverageTest.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\obj\Debug\StringAverageTest.csproj.CopyComplete
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\obj\Debug\StringAverageTest.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverageTest\obj\Debug\StringAverageTest.pdb

@@ -12,3 +12,6 @@ C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\bin\Debug\nunit.
 C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.csprojResolveAssemblyReference.cache
 C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.dll
 C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.csproj.CoreCompileInputs.cache
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.csproj.CopyComplete
