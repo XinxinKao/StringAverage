@@ -5,3 +5,10 @@ c:\users\xinyi.kao95\documents\visual studio 2013\Projects\StringAverage\StringA
 c:\users\xinyi.kao95\documents\visual studio 2013\Projects\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
 c:\users\xinyi.kao95\documents\visual studio 2013\Projects\StringAverage\StringAverage\bin\Debug\nunit.framework.dll
 c:\users\xinyi.kao95\documents\visual studio 2013\Projects\StringAverage\StringAverage\bin\Debug\nunit.framework.xml
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\bin\Debug\StringAverage.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\bin\Debug\StringAverage.pdb
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\bin\Debug\nunit.framework.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\bin\Debug\nunit.framework.xml
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.dll
+C:\Users\xinyi.kao95\Desktop\github\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
